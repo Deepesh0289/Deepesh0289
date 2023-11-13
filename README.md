@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepesh Saini</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" align = "right" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>>
+<img align = "right" alt = "coding" width = "600" src = "https://giphy.com/embed/3oKIPEqDGUULpEU0aQ">
 
 <p align="left"> <a href="https://twitter.com/deepesh0289" target="blank"><img src="https://img.shields.io/twitter/follow/deepesh0289?logo=twitter&style=for-the-badge" alt="deepesh0289" /></a> </p>
 
